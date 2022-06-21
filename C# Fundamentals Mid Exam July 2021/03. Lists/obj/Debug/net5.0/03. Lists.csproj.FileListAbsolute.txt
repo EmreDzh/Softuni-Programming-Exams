@@ -1,0 +1,16 @@
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\03. Lists.exe
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\03. Lists.deps.json
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\03. Lists.runtimeconfig.json
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\03. Lists.runtimeconfig.dev.json
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\03. Lists.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\ref\03. Lists.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\bin\Debug\net5.0\03. Lists.pdb
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.csproj.AssemblyReference.cache
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.AssemblyInfoInputs.cache
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.AssemblyInfo.cs
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.csproj.CoreCompileInputs.cache
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\ref\03. Lists.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.pdb
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\03. Lists\obj\Debug\net5.0\03. Lists.genruntimeconfig.cache

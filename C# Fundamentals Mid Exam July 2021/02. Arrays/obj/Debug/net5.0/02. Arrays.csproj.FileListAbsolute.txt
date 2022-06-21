@@ -1,0 +1,16 @@
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\02. Arrays.exe
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\02. Arrays.deps.json
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\02. Arrays.runtimeconfig.json
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\02. Arrays.runtimeconfig.dev.json
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\02. Arrays.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\ref\02. Arrays.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\bin\Debug\net5.0\02. Arrays.pdb
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.csproj.AssemblyReference.cache
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.AssemblyInfoInputs.cache
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.AssemblyInfo.cs
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.csproj.CoreCompileInputs.cache
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\ref\02. Arrays.dll
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.pdb
+D:\Programing FOUNDAMENTALS\Mid Exam Fundamentals July 2021\02. Arrays\obj\Debug\net5.0\02. Arrays.genruntimeconfig.cache
