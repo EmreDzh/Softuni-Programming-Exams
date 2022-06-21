@@ -1,0 +1,14 @@
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

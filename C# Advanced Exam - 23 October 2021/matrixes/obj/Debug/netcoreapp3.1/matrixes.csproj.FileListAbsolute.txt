@@ -1,0 +1,14 @@
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\bin\Debug\netcoreapp3.1\matrixes.exe
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\bin\Debug\netcoreapp3.1\matrixes.deps.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\bin\Debug\netcoreapp3.1\matrixes.runtimeconfig.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\bin\Debug\netcoreapp3.1\matrixes.runtimeconfig.dev.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\bin\Debug\netcoreapp3.1\matrixes.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\bin\Debug\netcoreapp3.1\matrixes.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.csproj.AssemblyReference.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.AssemblyInfoInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.AssemblyInfo.cs
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\matrixes\obj\Debug\netcoreapp3.1\matrixes.genruntimeconfig.cache

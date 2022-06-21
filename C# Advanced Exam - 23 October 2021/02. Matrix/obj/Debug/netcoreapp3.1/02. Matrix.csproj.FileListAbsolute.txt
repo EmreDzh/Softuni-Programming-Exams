@@ -1,0 +1,14 @@
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\bin\Debug\netcoreapp3.1\02. Matrix.exe
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\bin\Debug\netcoreapp3.1\02. Matrix.deps.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\bin\Debug\netcoreapp3.1\02. Matrix.runtimeconfig.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\bin\Debug\netcoreapp3.1\02. Matrix.runtimeconfig.dev.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\bin\Debug\netcoreapp3.1\02. Matrix.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\bin\Debug\netcoreapp3.1\02. Matrix.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.csproj.AssemblyReference.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.AssemblyInfoInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.AssemblyInfo.cs
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\02. Matrix\obj\Debug\netcoreapp3.1\02. Matrix.genruntimeconfig.cache
