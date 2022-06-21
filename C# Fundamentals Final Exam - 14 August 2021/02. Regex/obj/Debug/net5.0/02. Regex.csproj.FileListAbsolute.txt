@@ -1,0 +1,16 @@
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\02. Regex.exe
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\02. Regex.deps.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\02. Regex.runtimeconfig.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\02. Regex.runtimeconfig.dev.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\02. Regex.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\ref\02. Regex.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\bin\Debug\net5.0\02. Regex.pdb
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.csproj.AssemblyReference.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.AssemblyInfoInputs.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.AssemblyInfo.cs
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.csproj.CoreCompileInputs.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\ref\02. Regex.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.pdb
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\02. Regex\obj\Debug\net5.0\02. Regex.genruntimeconfig.cache

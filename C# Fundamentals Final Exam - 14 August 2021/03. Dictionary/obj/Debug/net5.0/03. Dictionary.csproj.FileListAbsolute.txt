@@ -1,0 +1,16 @@
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\03. Dictionary.exe
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\03. Dictionary.deps.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\03. Dictionary.runtimeconfig.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\03. Dictionary.runtimeconfig.dev.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\03. Dictionary.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\ref\03. Dictionary.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\bin\Debug\net5.0\03. Dictionary.pdb
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.csproj.AssemblyReference.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.AssemblyInfoInputs.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.AssemblyInfo.cs
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.csproj.CoreCompileInputs.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\ref\03. Dictionary.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.pdb
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\03. Dictionary\obj\Debug\net5.0\03. Dictionary.genruntimeconfig.cache

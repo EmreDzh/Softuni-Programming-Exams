@@ -1,0 +1,16 @@
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\01.String Processing.exe
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\01.String Processing.deps.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\01.String Processing.runtimeconfig.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\01.String Processing.runtimeconfig.dev.json
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\01.String Processing.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\ref\01.String Processing.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\bin\Debug\net5.0\01.String Processing.pdb
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.csproj.AssemblyReference.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.AssemblyInfoInputs.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.AssemblyInfo.cs
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.csproj.CoreCompileInputs.cache
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\ref\01.String Processing.dll
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.pdb
+C:\Programing Laptop\Programming Fundamentals Final Exam - 14 August 2021\01.String Processing\obj\Debug\net5.0\01.String Processing.genruntimeconfig.cache
