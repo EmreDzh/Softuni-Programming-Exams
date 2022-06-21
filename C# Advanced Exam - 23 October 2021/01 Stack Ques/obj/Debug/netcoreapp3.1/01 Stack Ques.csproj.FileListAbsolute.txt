@@ -1,0 +1,14 @@
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\bin\Debug\netcoreapp3.1\01 Stack Ques.exe
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\bin\Debug\netcoreapp3.1\01 Stack Ques.deps.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\bin\Debug\netcoreapp3.1\01 Stack Ques.runtimeconfig.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\bin\Debug\netcoreapp3.1\01 Stack Ques.runtimeconfig.dev.json
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\bin\Debug\netcoreapp3.1\01 Stack Ques.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\bin\Debug\netcoreapp3.1\01 Stack Ques.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.csproj.AssemblyReference.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.AssemblyInfoInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.AssemblyInfo.cs
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.dll
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.pdb
+D:\PROGRAMING\Programing Exams\Advanced Exam - 23 October 2021\01 Stack Ques\obj\Debug\netcoreapp3.1\01 Stack Ques.genruntimeconfig.cache
