@@ -1,0 +1,14 @@
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+D:\PROGRAMING\Programing EXAMS\C# OOP Exam - 11 December 2021\0-1\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache

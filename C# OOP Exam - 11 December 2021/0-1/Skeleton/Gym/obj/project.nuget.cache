@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fYieJHz4sFpGEcoUE5KDg35e3XFUvY7kiXFy0/6440oYZs6Drae348t7D7hWVtpqzVCbuSlxzXQLJyGLZiPeQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMING\\Programing EXAMS\\C# OOP Exam - 11 December 2021\\0-1\\Skeleton\\Gym\\Gym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
