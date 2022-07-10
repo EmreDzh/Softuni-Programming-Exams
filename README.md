@@ -1,2 +1,2 @@
 # SoftUniExams
-Softuni Exams from the C# module
+Softuni Exams from the C# and JavaScript module 
